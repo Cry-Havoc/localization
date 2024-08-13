@@ -2171,4 +2171,41 @@
     <string lang="kr">TBD</string>
     <string lang="pt-br">TBD</string>
   </set>
+  <set id="ui-statistics">
+    <string lang="de">Statistik</string>
+    <string lang="en">Statistics</string>
+    <string lang="fr">TBD</string>
+    <string lang="zh">TBD</string>
+    <string lang="jp">TBD</string>
+    <string lang="ru">TBD</string>
+    <string lang="es">TBD</string>
+    <string lang="kr">TBD</string>
+    <string lang="pt-br">TBD</string>
+    <string lang="zh-tw">TBD </string>
+  </set>
+  <set id="ui-victory">
+    <string lang="de">&lt;color=#67FF73&gt;Sieg;/color&gt;</string>
+    <string lang="en">&lt;color=#67FF73&gt;Victory;/color&gt;</string>
+    <string lang="fr">&lt;color=#67FF73&gt;TBD;/color&gt;</string>
+    <string lang="zh">&lt;color=#67FF73&gt;TBD;/color&gt;</string>
+    <string lang="jp">&lt;color=#67FF73&gt;TBD;/color&gt;</string>
+    <string lang="ru">&lt;color=#67FF73&gt;TBD;/color&gt;</string>
+    <string lang="es">&lt;color=#67FF73&gt;TBD;/color&gt;</string>
+    <string lang="kr">&lt;color=#67FF73&gt;TBD;/color&gt;</string>
+    <string lang="pt-br">&lt;color=#67FF73&gt;TBD;/color&gt;</string>
+    <string lang="zh-tw">&lt;color=#67FF73&gt;TBD;/color&gt;</string>
+  </set>
+  <set id="ui-defeat">
+    <string lang="de">&lt;color=#FF5555&gt;Niederlage&lt;/color&gt;</string>
+    <string lang="en">&lt;color=#FF5555&gt;Defeat&lt;/color&gt;</string>
+    <string lang="fr">&lt;color=#FF5555&gt;TBD&lt;/color&gt;</string>
+    <string lang="zh">&lt;color=#FF5555&gt;TBD&lt;/color&gt;</string>
+    <string lang="jp">&lt;color=#FF5555&gt;TBD&lt;/color&gt;</string>
+    <string lang="ru">&lt;color=#FF5555&gt;TBD&lt;/color&gt;</string>
+    <string lang="es">&lt;color=#FF5555&gt;TBD&lt;/color&gt;</string>
+    <string lang="kr">&lt;color=#FF5555&gt;TBD&lt;/color&gt;</string>
+    <string lang="pt-br">&lt;color=#FF5555&gt;TBD&lt;/color&gt;</string>
+    <string lang="zh-tw">&lt;color=#FF5555&gt;TBD&lt;/color&gt;</string>
+  </set>
+ 
 </localization>
