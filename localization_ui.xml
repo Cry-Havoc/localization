@@ -2184,16 +2184,16 @@
     <string lang="zh-tw">TBD </string>
   </set>
   <set id="ui-victory">
-    <string lang="de">&lt;color=#67FF73&gt;Sieg;/color&gt;</string>
-    <string lang="en">&lt;color=#67FF73&gt;Victory;/color&gt;</string>
-    <string lang="fr">&lt;color=#67FF73&gt;TBD;/color&gt;</string>
-    <string lang="zh">&lt;color=#67FF73&gt;TBD;/color&gt;</string>
-    <string lang="jp">&lt;color=#67FF73&gt;TBD;/color&gt;</string>
-    <string lang="ru">&lt;color=#67FF73&gt;TBD;/color&gt;</string>
-    <string lang="es">&lt;color=#67FF73&gt;TBD;/color&gt;</string>
-    <string lang="kr">&lt;color=#67FF73&gt;TBD;/color&gt;</string>
-    <string lang="pt-br">&lt;color=#67FF73&gt;TBD;/color&gt;</string>
-    <string lang="zh-tw">&lt;color=#67FF73&gt;TBD;/color&gt;</string>
+    <string lang="de">&lt;color=#67FF73&gt;Sieg&lt;/color&gt;</string>
+    <string lang="en">&lt;color=#67FF73&gt;Victory&lt;/color&gt;</string>
+    <string lang="fr">&lt;color=#67FF73&gt;TBD&lt;/color&gt;</string>
+    <string lang="zh">&lt;color=#67FF73&gt;TBD&lt;/color&gt;</string>
+    <string lang="jp">&lt;color=#67FF73&gt;TBD&lt;/color&gt;</string>
+    <string lang="ru">&lt;color=#67FF73&gt;TBD&lt;/color&gt;</string>
+    <string lang="es">&lt;color=#67FF73&gt;TBD&lt;/color&gt;</string>
+    <string lang="kr">&lt;color=#67FF73&gt;TBD&lt;/color&gt;</string>
+    <string lang="pt-br">&lt;color=#67FF73&gt;TBD&lt;/color&gt;</string>
+    <string lang="zh-tw">&lt;color=#67FF73&gt;TBD&lt;/color&gt;</string>
   </set>
   <set id="ui-defeat">
     <string lang="de">&lt;color=#FF5555&gt;Niederlage&lt;/color&gt;</string>
@@ -2207,5 +2207,103 @@
     <string lang="pt-br">&lt;color=#FF5555&gt;TBD&lt;/color&gt;</string>
     <string lang="zh-tw">&lt;color=#FF5555&gt;TBD&lt;/color&gt;</string>
   </set>
- 
+  <set id="ui-date">
+    <string lang="de">Datum</string>
+    <string lang="en">Date</string>
+    <string lang="fr">TBD</string>
+    <string lang="zh">TBD</string>
+    <string lang="jp">TBD</string>
+    <string lang="ru">TBD</string>
+    <string lang="es">TBD</string>
+    <string lang="kr">TBD</string>
+    <string lang="pt-br">TBD</string>
+    <string lang="zh-tw">TBD </string>
+  </set>
+  
+   <set id="ui-gameover">
+    <string lang="de">Result</string>
+    <string lang="en">Result</string>
+    <string lang="fr">TBD</string>
+    <string lang="zh">TBD</string>
+    <string lang="jp">TBD</string>
+    <string lang="ru">TBD</string>
+    <string lang="es">TBD</string>
+    <string lang="kr">TBD</string>
+    <string lang="pt-br">TBD</string>
+    <string lang="zh-tw">TBD </string>
+  </set> 
+  <set id="ui-chars">
+    <string lang="de">Chars</string>
+    <string lang="en">Chars</string>
+    <string lang="fr">TBD</string>
+    <string lang="zh">TBD</string>
+    <string lang="jp">TBD</string>
+    <string lang="ru">TBD</string>
+    <string lang="es">TBD</string>
+    <string lang="kr">TBD</string>
+    <string lang="pt-br">TBD</string>
+    <string lang="zh-tw">TBD </string>
+  </set>
+  <set id="ui-difficulity">
+    <string lang="de">Schwierigkeit</string>
+    <string lang="en">Difficulity</string>
+    <string lang="fr">TBD</string>
+    <string lang="zh">TBD</string>
+    <string lang="jp">TBD</string>
+    <string lang="ru">TBD</string>
+    <string lang="es">TBD</string>
+    <string lang="kr">TBD</string>
+    <string lang="pt-br">TBD</string>
+    <string lang="zh-tw">TBD </string>
+  </set>
+  <set id="ui-biomes">
+    <string lang="de">Biome</string>
+    <string lang="en">Biomes</string>
+    <string lang="fr">TBD</string>
+    <string lang="zh">TBD</string>
+    <string lang="jp">TBD</string>
+    <string lang="ru">TBD</string>
+    <string lang="es">TBD</string>
+    <string lang="kr">TBD</string>
+    <string lang="pt-br">TBD</string>
+    <string lang="zh-tw">TBD </string>
+  </set>
+  <set id="ui-energy">
+    <string lang="de">Energie</string>
+    <string lang="en">Energy</string>
+    <string lang="fr">TBD</string>
+    <string lang="zh">TBD</string>
+    <string lang="jp">TBD</string>
+    <string lang="ru">TBD</string>
+    <string lang="es">TBD</string>
+    <string lang="kr">TBD</string>
+    <string lang="pt-br">TBD</string>
+    <string lang="zh-tw">TBD </string>
+  </set> 
+  <set id="ui-totaltime">
+    <string lang="de">Zeit</string>
+    <string lang="en">Time</string>
+    <string lang="fr">TBD</string>
+    <string lang="zh">TBD</string>
+    <string lang="jp">TBD</string>
+    <string lang="ru">TBD</string>
+    <string lang="es">TBD</string>
+    <string lang="kr">TBD</string>
+    <string lang="pt-br">TBD</string>
+    <string lang="zh-tw">TBD </string>
+  </set>
+  <set id="ui-totalturns">
+    <string lang="de">Runden</string>
+    <string lang="en">Turns</string>
+    <string lang="fr">TBD</string>
+    <string lang="zh">TBD</string>
+    <string lang="jp">TBD</string>
+    <string lang="ru">TBD</string>
+    <string lang="es">TBD</string>
+    <string lang="kr">TBD</string>
+    <string lang="pt-br">TBD</string>
+    <string lang="zh-tw">TBD </string>
+  </set>
+
+
 </localization>
